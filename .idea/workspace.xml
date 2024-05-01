@@ -9,9 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fcad33d-812f-49f9-90c8-e34078ebc871" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-v21/icon.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="4fcad33d-812f-49f9-90c8-e34078ebc871" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +46,6 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "<unknown>",
     "io.flutter.reload.alreadyRun": "true",
     "last_opened_file_path": "E:/app development/Project_1/android/app/src/main/res/mipmap-xxxhdpi",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
@@ -106,16 +103,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="Dart">
-          <url>file://$PROJECT_DIR$/lib/main.dart</url>
-          <line>154</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
